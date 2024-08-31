@@ -1,0 +1,40 @@
+{
+    "path_count": 128,
+    "parsed_path_count": 1,
+    "static_analysis_path_count": 0,
+    "static_analysis_parsed_path_count": 0,
+    "is_partial_parse_enabled": true,
+    "is_static_analysis_enabled": true,
+    "read_files_elapsed": 0.01308865426108241,
+    "load_macros_elapsed": 0.000311823096126318,
+    "parse_project_elapsed": 0.0017765997909009457,
+    "patch_sources_elapsed": 6.291083991527557e-06,
+    "process_manifest_elapsed": 0.0013093119487166405,
+    "load_all_elapsed": 0.03472838085144758,
+    "projects": [
+        {
+            "project_name": "dbt_scooters",
+            "elapsed": 0.001734843011945486,
+            "parsers": [
+                {
+                    "parser": "test",
+                    "elapsed": 0.001728714443743229,
+                    "parsed_path_count": 1
+                }
+            ],
+            "parsed_path_count": 1
+        },
+        {
+            "project_name": "dbt_postgres",
+            "elapsed": 0,
+            "parsers": [],
+            "parsed_path_count": 0
+        },
+        {
+            "project_name": "dbt",
+            "elapsed": 0,
+            "parsers": [],
+            "parsed_path_count": 0
+        }
+    ]
+}
